@@ -1,0 +1,11 @@
+name: cross_id
+
+channels:
+  - defaults
+
+dependencies:
+  - astroquery
+  - pandas
+  - jupyter
+  - matplotlib
+  - bokeh
