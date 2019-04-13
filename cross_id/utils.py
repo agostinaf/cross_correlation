@@ -6,7 +6,7 @@ def sigma_ellipse(data, amaj, amin, phi):
     Parameters
     -------
     data : DataFrame
-        Pandas dataframe.
+        Pandas DataFrame.
     amaj: str
         Column name of the semi-major axis (deg).
     amin: str
