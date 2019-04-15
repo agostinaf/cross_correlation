@@ -7,7 +7,7 @@ import pandas as pd
 from astropy.table import Table
 
 sys.path.append('..')
-from crossid.utils import sigma_ellipse
+from cross_id.utils import sigma_ellipse
 
 warnings.simplefilter('ignore')
 
